@@ -1,11 +1,10 @@
-<img width="434" height="505" alt="ascii-art" src="https://github.com/user-attachments/assets/39e13731-c6d7-4f12-9681-c710f50e760c" />
 
 <h1 align="center">Hey, I'm Vaibhav Sharma 👋</h1>
 
 <table>
 <tr>
 <td width="38%" align="center" valign="middle">
-<img src="./ascii-art.png" width="100%" alt="ASCII art portrait"/>
+<img src="./ascii-art.png" width="100%" alt="ascii-art"/>
 </td>
 <td width="62%" valign="middle">
 

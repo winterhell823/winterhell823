@@ -4,7 +4,8 @@
 <table>
 <tr>
 <td width="38%" align="center" valign="middle">
-<img src="./ascii-art.png" width="100%" alt="ascii-art"/>
+<img src="./images/ascii-art.png<img width="434" height="505" alt="ascii-art" src="https://github.com/user-attachments/assets/f5001ef3-6e29-4b9c-9312-c07b20dd352a" />
+" width="100%" alt="ascii-art"/>
 </td>
 <td width="62%" valign="middle">
 

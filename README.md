@@ -1,7 +1,7 @@
 
 <h1 align="center">Hey, I'm Vaibhav Sharma 👋</h1>
 
-<table>
+<table border="0" cellpadding="10" cellspacing="0">
 <tr>
 <td width="38%" align="center" valign="middle">
 <img
@@ -19,7 +19,7 @@
 
 <br/><br/>
 
-☕ Backend + AI engineer: <b>Java</b> by loyalty, <b>Python</b> by necessity
+☕ Backend + AI engineer: Java by loyalty, Python by necessity
 
 <br/><br/>
 
@@ -39,18 +39,15 @@
 
 <br/><br/>
 
-🚀 <b>Stack:</b> <br/>
-Java, Spring Boot, Python, FastAPI, Node.js, PostgreSQL, Redis, LangChain
+🚀 <b>Stack:</b> Java, Spring Boot, Python, FastAPI, Node.js, PostgreSQL, Redis, LangChain
 
 <br/><br/>
 
-💬 <b>Ask me about:</b> <br/>
-backend design, RAG pipelines, or why my code “works on my machine”
+💬 <b>Ask me about:</b> backend design, RAG pipelines, or why my code “works on my machine”
 
 <br/><br/>
 
-📫 <b>Reach me:</b> <br/>
-<a href="mailto:winterhell823@gmail.com">winterhell823@gmail.com</a>
+📫 <b>Reach me:</b> <a href="mailto:winterhell823@gmail.com">winterhell823@gmail.com</a>
 
 </td>
 </tr>

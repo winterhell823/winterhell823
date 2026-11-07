@@ -15,3 +15,10 @@
 📫 **Reach me:** [winterhell823@gmail.com](mailto:winterhell823@gmail.com)
 
 <br clear="left"/>
+
+
+<p align="center">
+  <a href="https://github.com/PramudithaN/git-tulkun">
+    <img src="https://raw.githubusercontent.com/winterhell823/winterhell823/output/tulkun/tulkun.gif" width="640" alt="git-tulkun swimming" />
+  </a>
+</p>

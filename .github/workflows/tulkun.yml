@@ -15,4 +15,4 @@ jobs:
       - uses: PramudithaN/git-tulkun@v1
         with:
           view: side     # side | dive | top
-          window: rollling # annual (Jan 1 reset) | rolling (trailing 365 days)
+          window: rolling # annual (Jan 1 reset) | rolling (trailing 365 days)
